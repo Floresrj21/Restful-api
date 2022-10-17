@@ -1,0 +1,37 @@
+{
+   "Operator1" : {
+      "name" : "Margaret Nearl",
+      "Code Name" : "Nearl",
+      "Class" : "Dreadnought Guard",
+      "id": 1
+   },
+   
+   "Operator2" : {
+      "name" : "Anthony Simon",
+      "Code Name" : "Mountain",
+      "Class" : "Fighter Guard",
+      "id": 2
+   },
+   
+   "Operator3" : {
+      "name" : "Vena",
+      "Code Name" : "Siege",
+      "Class" : "Pioneer Vanguard",
+      "id": 3
+   },
+
+   "Operator4" : {
+      "name" : "Lemuel",
+      "Code Name" : "Exusiai",
+      "Class" : "Marksman Sniper",
+      "id": 4
+   },
+
+   "Operator5" : {
+      "name" : "Ensia Silverash",
+      "Code Name" : "Cliffheart",
+      "Class" : "Hookmaster Specialist",
+      "id": 5
+   }
+
+}
