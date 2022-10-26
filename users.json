@@ -1,37 +1,42 @@
 {
-   "Operator1" : {
-      "name" : "Margaret Nearl",
-      "Code Name" : "Nearl",
-      "Class" : "Dreadnought Guard",
-      "id": 1
+   "Song1" : {
+      "Song" : "Bismarck",
+      "Artist" : "Sabaton",
+      "Genre" : "Rock",
+      "Link": "https://www.youtube.com/watch?v=oVWEb-At8yc",
+      "id" : 1
    },
    
-   "Operator2" : {
-      "name" : "Anthony Simon",
-      "Code Name" : "Mountain",
-      "Class" : "Fighter Guard",
-      "id": 2
+   "Song2" : {
+      "Song" : "Defence of Moscow",
+      "Artist" : "Sabaton",
+      "Genre" : "Rock",
+      "Link": "https://www.youtube.com/watch?v=9TjXanLjpTU",
+      "id" : 2
    },
    
-   "Operator3" : {
-      "name" : "Vena",
-      "Code Name" : "Siege",
-      "Class" : "Pioneer Vanguard",
-      "id": 3
+   "Song3" : {
+      "Song" : "Nakakapagpabagabag",
+      "Artist" : "Dasu",
+      "Genre" : "Pop",
+      "Link": "https://www.youtube.com/watch?v=SnI4CGjeVOM",
+      "id" : 3
    },
 
-   "Operator4" : {
-      "name" : "Lemuel",
-      "Code Name" : "Exusiai",
-      "Class" : "Marksman Sniper",
-      "id": 4
+   "Song4" : {
+      "Song" : "Bury the Light",
+      "Artist" : "Victor Borba",
+      "Genre" : "Pop",
+      "Link": "https://www.youtube.com/watch?v=Jrg9KxGNeJY",
+      "id" : 4
    },
 
-   "Operator5" : {
-      "name" : "Ensia Silverash",
-      "Code Name" : "Cliffheart",
-      "Class" : "Hookmaster Specialist",
-      "id": 5
+   "Song5" : {
+      "Song" : "Non-Fiction",
+      "Artist" : "HololiveEn Gen1",
+      "Genre" : "Pop",
+      "Link": "https://www.youtube.com/watch?v=zbgWUK_tidI",
+      "id" : 5
    }
 
 }
